@@ -1,1 +1,3 @@
-The items in this repository are the only ones that are queued directly. Any other items are discovered while archiving and queued back to the tracker.
+The items in the `ADDED/` directory have been queued directly to the tracker.
+
+The `FINAL/` directory shows the final state of the tracker - the items in the various queues - after the project finished.
